@@ -4,4 +4,10 @@ Problema de [torres de hanói](https://es.wikipedia.org/wiki/Torres_de_Han%C3%B3
 
 ## Capturas
 
+![imagen01](https://github.com/josevc93/Torres-hanoi-C---Allegro/blob/master/img/hanoi01.PNG)
 
+![imagen02](https://github.com/josevc93/Torres-hanoi-C---Allegro/blob/master/img/hanoi02.PNG)
+
+![imagen03](https://github.com/josevc93/Torres-hanoi-C---Allegro/blob/master/img/hanoi03.PNG)
+
+![imagen04](https://github.com/josevc93/Torres-hanoi-C---Allegro/blob/master/img/hanoi04.PNG)
