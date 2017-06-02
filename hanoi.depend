@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1343222144 source:c:\users\jose\desktop\hanoi\hanoi\inicia.cpp
+	"inicia.h"
+	<allegro.h>
+
+1341407002 c:\users\jose\desktop\hanoi\hanoi\inicia.h
+
+1393615073 source:c:\users\jose\desktop\hanoi\hanoi\main.cpp
+	<allegro.h>
+	<stdlib.h>
+	"inicia.h"
+
